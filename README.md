@@ -1,4 +1,4 @@
-# WebScraping_TextAnalysis
+# WebScraping_TextMining
 
 This repository includes some of my practicing notebooks focusing on webscraping and text mining on patent citation and abstracts.
 
